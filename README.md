@@ -5,7 +5,7 @@
 ## My name is **Arnav Meshram**. 
 I am currently pursuing B.Tech at IIT Goa. I believe that technology is the closest thing to magic/miracle, that exists. I believe in the power of technology to solve our problems.
 I consider myself to be a student of life and strive to be a lifelong learner because the world is wonderful and there is a lot to learn, ponder and appreciate in our world. 
-![tech.jpeg](https://raw.githubusercontent.com/Arnav-Meshram/Arnav-Meshram.github.io/main/tech.jpeg)
+![tech.jpeg](https://images.pexels.com/photos/41162/moon-landing-apollo-11-nasa-buzz-aldrin-41162.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 
 ______________________________________________________________________
