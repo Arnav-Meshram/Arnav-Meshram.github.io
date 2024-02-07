@@ -46,13 +46,21 @@ _______________________________________________________________________
  
 
  i. **MA102** BASIC LINEAR ALGEBRA (*DR.KALPESH HARIA).
+ 
 ii.  **MA103** ORDINARY DIFFERENTIAL EQUATIONS
+
 iii. **PH102** ELECTRICITY AND MAGNETISM (*DR.WAIBHAV WASNIK)
+
  iv. **EE101** INTRODUCTION TO ELECTRICAL AND ELECTRONICS ENGINEERING (*DR.APEKSHA AND DR.BIDHAN)*
+ 
  v. **BIO101** BIOLOGY *(DR.SHREENATH AND DR.NIPA*)
+ 
  vi. **CS102** SOFTWARE TOOLS(*DR.CLINT GEORGE* )
+ COURSE WEBPAGE:
  https://clintpgeorge.github.io/cs-102/spring-2024/
+ 
  vii. **ME102** ENGINEERING DRAWING AND GRAPHICS 
+ 
  vii.**PH102** PHYSICS LAB 
 _______________________________________________________________________
 # HOBBIES AND INTEREST
